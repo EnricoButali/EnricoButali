@@ -1,4 +1,15 @@
-## Hi there 👋
+## Enrico Butali
+
+Quantitative researcher in Mathematical Finance.
+
+**Current work**
+- Wind speed modelling and energy derivatives pricing (RAship)
+
+**Interests**
+- Stochastic processes · Energy markets · Derivatives pricing
+
+**Tools**
+- Python · statsmodels · LaTeX
 
 <!--
 **EnricoButali/EnricoButali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
