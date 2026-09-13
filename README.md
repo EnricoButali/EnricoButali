@@ -4,6 +4,7 @@ Quantitative researcher in Mathematical Finance.
 
 **Current work**
 - Wind speed modelling and energy derivatives pricing (RAship)
+- Continuous-Time Modelling of Wind Speed for Derivatives Pricing and Risk Management (Final Thesis)
 
 **Interests**
 - Stochastic processes · Energy markets · Derivatives pricing
