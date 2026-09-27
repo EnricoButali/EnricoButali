@@ -1,28 +1,17 @@
 ## Enrico Butali
 
-Quantitative researcher in Mathematical Finance.
+Quantitative researcher in Mathematical Finance, focused on energy markets.
+I build stochastic models for wind speed and use them to price and hedge weather-linked risk for renewable producers.
 
 **Current work**
-- Wind speed modelling and energy derivatives pricing (RAship)
-- Continuous-Time Modelling of Wind Speed for Derivatives Pricing and Risk Management (Final Thesis)
+- [Wind Speed Modelling](https://github.com/EnricoButali/Wind-Speed-Modelling): wind speed modelling and energy derivatives pricing (RAship)
+- *Continuous-Time Modelling of Wind Speed for Derivatives Pricing and Risk Management* (Master's thesis)
+  - CAR(4) + GARCH(1,1) model calibrated on ERA5 hub-height wind data for Germany
+  - Fair strike for a synthetic wind variance swap on German onshore wind generation (SMARD)
+  - Value of Information: a misaligned proxy dataset misprices the fair strike by 88%
 
 **Interests**
-- Stochastic processes · Energy markets · Derivatives pricing
+- Stochastic processes · Volatility modelling · Energy markets · Derivatives pricing
 
 **Tools**
-- Python · statsmodels · LaTeX
-
-<!--
-**EnricoButali/EnricoButali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python (pandas, NumPy, SciPy, statsmodels, arch) · Jupyter · LaTeX
